@@ -1,5 +1,5 @@
 # robofriends-ts
-Udemy tutorial - adding TypeScript to a react app
+Adding TypeScript to Robofriends App
 
 To run the project:
 
