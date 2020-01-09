@@ -1,4 +1,4 @@
-// {
+{
 //     "extends": ["tslint-react"],
 //     "rules": {
 //         "align": [
@@ -96,4 +96,4 @@
 //             "check-typecast"
 //         ]
 //     }
-// }
+}
